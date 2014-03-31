@@ -1,6 +1,8 @@
 ## recepnet-sink
 
-A simple API for serving available Twitter and Youtube IPs for Turkish Users
+A simple API for serving available Twitter and Youtube IPs for Turkish Users.
+
+It's running at [api.recepnet.com](http://api.recepnet.com)
 
 ## Install
 
