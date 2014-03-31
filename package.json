@@ -1,0 +1,20 @@
+{
+  "name": "recepnet-sink",
+  "version": "0.0.0",
+  "description": "DNS monkey patching sink for users in Turkey",
+  "main": "index.js",
+  "keywords": [
+    "dns",
+    "turkey"
+  ],
+  "repository": {
+    "url": "git@github.com:gezi/recepnet-sink.git",
+    "type": "git"
+  },
+  "author": "Azer Koçulu <azer@kodfabrik.com>",
+  "license": "BSD",
+  "dependencies": {
+    "after-time": "0.0.1",
+    "debug": "~0.8.0"
+  }
+}
