@@ -1,6 +1,6 @@
 ## recepnet-sink
 
-DNS monkey patching sink for users in Turkey
+A simple API for serving available Twitter and Youtube IPs for Turkish Users
 
 ## Install
 
